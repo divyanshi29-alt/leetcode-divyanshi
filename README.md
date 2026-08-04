@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0085-maximal-rectangle) |
 | [3731-find-missing-elements](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0085-maximal-rectangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -262,11 +265,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
