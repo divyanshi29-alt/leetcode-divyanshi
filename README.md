@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0076-minimum-window-substring) |
+| [3731-find-missing-elements](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [3731-find-missing-elements](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/0075-sort-colors) |
+| [3731-find-missing-elements](https://github.com/divyanshi29-alt/leetcode-divyanshi/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
